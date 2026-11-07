@@ -1,0 +1,96 @@
+# DMPM Lab Experiments
+
+This repository contains Python implementations of all 8 experiments performed in the **Data Mining and Predictive Modelling (DMPM) Lab** as part of the B.Tech CSE (AIML) curriculum at G.I.E.T. University.
+
+## 📚 List of Experiments
+
+| Experiment No. | Experiment Name                                                                       |
+| -------------- | ------------------------------------------------------------------------------------- |
+| 01             | Statistical Measures – Mean, Median, Mode, Variance, Standard Deviation and Quartiles |
+| 02             | Dataset Upload, Pandas Library and Data Preprocessing                                 |
+| 03             | Introduction to NumPy, Pandas, SciPy and Data Visualization                           |
+| 04             | Correlation, Covariance, Normalization and Scaling                                    |
+| 05             | Frequent Pattern Mining – Apriori, FP-Growth and Association Rules                    |
+| 06             | Introduction to Scikit-learn and Decision Tree Classification                         |
+| 07             | K-Nearest Neighbour (KNN) Classification                                              |
+| 08             | K-Means and K-Medoids Clustering                                                      |
+
+## 🛠️ Technologies Used
+
+- Python 3
+- Google Colab
+- Jupyter Notebook
+- NumPy
+- Pandas
+- SciPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- mlxtend
+
+## 📂 Repository Structure
+
+```text
+DMPM-LAB/
+│
+├── DMPM_Only_Experiments.ipynb
+│
+└── README.md
+```
+
+## 🚀 How to Run
+
+1. Clone or download this repository.
+2. Open Google Colab.
+3. Upload the `.ipynb` notebook.
+4. Run the cells sequentially.
+5. View the outputs, results and visualizations.
+
+## 📊 Experiments Overview
+
+### Experiment 1: Statistical Measures
+
+Calculation of statistical measures such as mean, median, mode, variance, standard deviation and quartiles.
+
+### Experiment 2: Data Preprocessing
+
+Loading datasets, exploring data, handling missing values, removing duplicates and encoding categorical data using Pandas.
+
+### Experiment 3: Python Libraries and Visualization
+
+Performing numerical and statistical operations using NumPy, Pandas and SciPy, with data visualization using Matplotlib and Seaborn.
+
+### Experiment 4: Correlation and Scaling
+
+Analyzing relationships between variables using correlation and covariance, along with Min-Max normalization and standardization.
+
+### Experiment 5: Frequent Pattern Mining
+
+Implementing Apriori and FP-Growth algorithms to identify frequent itemsets and generate association rules.
+
+### Experiment 6: Decision Tree Classification
+
+Building and evaluating a Decision Tree classification model using Scikit-learn.
+
+### Experiment 7: KNN Classification
+
+Implementing the K-Nearest Neighbour algorithm for classification and evaluating model performance.
+
+### Experiment 8: Clustering
+
+Implementing K-Means and K-Medoids clustering algorithms for unsupervised learning and data grouping.
+
+## 🎯 Objective
+
+The main objective of this laboratory work is to understand and implement fundamental data mining, data preprocessing, statistical analysis, machine learning and clustering techniques using Python.
+
+## 👨‍🎓 Academic Information
+
+- **University:** G.I.E.T. University
+- **Course:** B.Tech – Computer Science and Engineering (AIML)
+- **Subject:** Data Mining and Predictive Modelling (DMPM)
+- **Lab Work:** Practical Experiments (1–8)
+
+---
+
+⭐ This repository is maintained for academic learning, practical implementation and reference.
